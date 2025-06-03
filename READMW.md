@@ -1,11 +1,11 @@
 # Customer-Churn-Prediction System
 This project aims to predict which customers are likely to leave a subscription service. It uses customer data to support retention strategies, it was developed as the final assignment for the Machine Learning course under Dr. Nermeen Hamza at the Faculty of Graduate Studies for Statistical Researches (FGSSR) – Cairo University.
 
-##Objective
+Objective
 
 To build a predictive system that helps businesses identify customers likely to churn (leave the service) and provide intelligent retention strategies using machine learning.
 
-##Team Members
+Team Members
 
    - Nourhan Khaled
    - Fatma Ehab
@@ -13,7 +13,7 @@ To build a predictive system that helps businesses identify customers likely to 
    - Mona Elgoba
    - Mayar Mustafa
 
-##Project Pipeline
+Project Pipeline
 
    * Data Preprocessing: Handling missing values, feature encoding, and scaling (RobustScaler, MinMaxScaler)
     Feature Selection: Based on correlation and model relevance
@@ -28,6 +28,6 @@ To build a predictive system that helps businesses identify customers likely to 
         Deployed via Gradio
         Integrated with LLM-powered module for personalized retention offers *
 
-##Deployment
+Deployment
 
 You can try the system live via Gradio (link provided in notebook or deployment instructions).
