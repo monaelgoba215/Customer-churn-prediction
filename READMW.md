@@ -19,14 +19,14 @@ To build a predictive system that helps businesses identify customers likely to 
    - Feature Selection: Based on correlation and model relevance
    - Imbalance Handling: SMOTE oversampling used for training
    - Models Trained:
-        Logistic Regression
-        XGBoost
-        LightGBM
-        Stacking Classifier
+       - Logistic Regression
+       - XGBoost
+       - LightGBM
+       - Stacking Classifier
    - Evaluation: Compared models using Precision, Recall, F1-Score
    - Deployment:
-        Deployed via Gradio
-        Integrated with LLM-powered module for personalized retention offers 
+       - Deployed via Gradio
+       - Integrated with LLM-powered module for personalized retention offers 
 
 ## **Deployment**
 
