@@ -15,7 +15,7 @@ Team Members
 
 Project Pipeline
 
-   * Data Preprocessing: Handling missing values, feature encoding, and scaling (RobustScaler, MinMaxScaler)
+   - Data Preprocessing: Handling missing values, feature encoding, and scaling (RobustScaler, MinMaxScaler)
     Feature Selection: Based on correlation and model relevance
     Imbalance Handling: SMOTE oversampling used for training
     Models Trained:
@@ -26,7 +26,7 @@ Project Pipeline
     Evaluation: Compared models using Precision, Recall, F1-Score
     Deployment:
         Deployed via Gradio
-        Integrated with LLM-powered module for personalized retention offers *
+        Integrated with LLM-powered module for personalized retention offers 
 
 Deployment
 
